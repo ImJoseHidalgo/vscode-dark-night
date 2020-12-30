@@ -1,0 +1,40 @@
+{
+    "name": "dark-night",
+    "displayName": "Dark Night Theme",
+    "description": "A complete, dark and minimalistic theme.",
+    "icon": "./icon.png",
+    "version": "0.0.1",
+    "license": "MIT",
+    "publisher": "imjosehidalgo",
+    "author": {
+        "name": "Jose Hidalgo",
+        "email": "josehidalgo990@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imjosehidalgo/vscode-dark-night"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "keywords": [
+        "vs code dark night theme",
+        "theme",
+        "dark",
+        "night",
+        "minimalistic",
+        "monokai"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Night-color-theme.json"
+            }
+        ]
+    }
+}
