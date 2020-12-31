@@ -1,6 +1,6 @@
 # Dark Night Theme
 <p align="center">
-  <img src="./resources/icon-theme.png" width="128" alt="Logo">
+  <img src="https://raw.githubusercontent.com/ImJoseHidalgo/vscode-dark-night/main/resources/icon-theme.png" width="128" alt="Logo">
 </p>
 
 A complete, dark and minimalistic theme.
@@ -10,12 +10,12 @@ Features:
 
 ## Demo
 
-![preview](./resources/Dark-Night-Theme-Preview.png)
+![preview](https://raw.githubusercontent.com/ImJoseHidalgo/vscode-dark-night/main/resources/Dark-Night-Theme-Preview.png)
 
 
 ## Install
 
-Follow the instructions in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=imjosehidalgo.vscode-dark-night), or run the following in the command palette:
+Follow the instructions in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=josehidalgo.dark-night), or run the following in the command palette:
 
 ```shell
 ext install imjosehidalgo.vscode-dark-night

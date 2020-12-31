@@ -2,10 +2,10 @@
     "name": "dark-night",
     "displayName": "Dark Night Theme",
     "description": "A complete, dark and minimalistic theme.",
-    "icon": "./icon.png",
+    "icon": "resources/icon-theme.png",
     "version": "0.0.1",
     "license": "MIT",
-    "publisher": "imjosehidalgo",
+    "publisher": "josehidalgo",
     "author": {
         "name": "Jose Hidalgo",
         "email": "josehidalgo990@gmail.com"
