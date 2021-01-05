@@ -18,12 +18,12 @@ Features:
 Follow the instructions in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=josehidalgo.dark-night), or run the following in the command palette:
 
 ```shell
-ext install imjosehidalgo.vscode-dark-night
+ext install josehidalgo.dark-night
 ```
 ## Usage
 
 - Run the `Preferences: Color Theme` command.
-- Select `Dark Nigh Theme`
+- Select `Dark Nigh`
 
 ## Contributing
 
