@@ -9,9 +9,9 @@ Features:
 - **Minimalistic**: Unnecessary borders have been removed, everything is well separated, it won't distract you.
 
 ## Demo
-
 ![preview](https://raw.githubusercontent.com/ImJoseHidalgo/vscode-dark-night/main/resources/Dark-Night-Theme-Preview.png)
 
+![preview-terminal](https://raw.githubusercontent.com/ImJoseHidalgo/vscode-dark-night/main/resources/Dark-Night-Theme-Preview-V2.png)
 
 ## Install
 
