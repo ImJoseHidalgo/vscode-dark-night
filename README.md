@@ -5,7 +5,7 @@
 </p> -->
 ![preview](./resources/baner-dark-night-theme.jpg)
 
-## A complete, dark and minimalistic theme.
+A complete, dark and minimalistic theme.
 
 ## Features:
 - **Minimalistic**: Unnecessary borders have been removed, everything is well separated, it won't distract you.
