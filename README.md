@@ -1,11 +1,13 @@
-# Dark Night Theme
-<p align="center">
+<!-- # Dark Night Theme -->
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ImJoseHidalgo/vscode-dark-night/main/resources/icon-theme.png" width="128" alt="Logo">
-</p>
+  <img src="./resources/baner-dark-night-theme.jpg" alt="Logo">
+</p> -->
+![preview](./resources/baner-dark-night-theme.jpg)
 
-A complete, dark and minimalistic theme.
+## A complete, dark and minimalistic theme.
 
-Features:
+## Features:
 - **Minimalistic**: Unnecessary borders have been removed, everything is well separated, it won't distract you.
 
 ## Demo
