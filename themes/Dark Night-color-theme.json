@@ -372,8 +372,6 @@
     "editor.rangeHighlightBorder": "#292929",
     "editor.selectionForeground": "#dddddd",
 
-    
-    //sadasdasdsad
     "editor.selectionHighlightBackground": "#111",
     "editor.selectionHighlightBorder": "#666",
     "editor.snippetFinalTabstopHighlightBackground": "#ffffff20",
@@ -393,7 +391,7 @@
     "editorError.foreground": "#fe413f",
 		"editorGroup.border": "#161616",
 		"editorGroup.dropBackground": "#ffffff12",
-    "editorGroup.emptyBackground": "#1f1f1f",
+    "editorGroup.emptyBackground": "#111",
     "editorGroup.focusedEmptyBorder": "#00000000",
     "editorGroupHeader.noTabsBackground": "#161616",
     "editorGroupHeader.tabsBackground": "#050503",
